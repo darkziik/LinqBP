@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Sequences Console Application",
+  "authors": [ "Jhonnys López" ],
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "commands": {
+    "Sequences": "Sequences"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}

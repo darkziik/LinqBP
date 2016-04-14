@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "Filtering Console Application",
+  "authors": [ "Jhonnys López" ],
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "TheModel": "1.0.0-*"
+  },
+  "commands": {
+    "Filtering": "Filtering"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}

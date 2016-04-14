@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Counting Console Application",
+  "authors": [ "Jhonnys López" ],
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "TheModel": "1.0.0-*"
+  },
+  "commands": {
+    "Counting": "Counting"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0-*",
+  "description": "RealWorld Console Application",
+  "authors": [ "Jhonnys López" ],
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "LinqOptimizer.CSharp": "0.6.3",
+    "TheModel": "1.0.0-*"
+  },
+  "commands": {
+    "RealWorld": "RealWorld"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}
